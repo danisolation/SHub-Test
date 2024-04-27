@@ -29,6 +29,7 @@ async function filterSales() {
 
         console.log('File has been written with filtered data.');
     } catch (error) {
+        
         console.error(error);
     }
 }
